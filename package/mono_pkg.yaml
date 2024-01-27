@@ -1,0 +1,8 @@
+sdk:
+  - dev
+stages:
+  - analyze_and_format:
+      - analyze
+      - format
+  - unit_test:
+      - test
