@@ -7,8 +7,7 @@ jobs:
   analyze:
     runs-on: ubuntu-latest
     steps:
-      - run: echo noop
-#      - uses: actions/checkout@v4.1.1
-#      - uses: dart-lang/setup-dart@v1
-#      - run: dart pub get
-#      - run: dart analyze .
+      - uses: actions/checkout@v4.1.1
+      - uses: dart-lang/setup-dart@v1
+      - run: dart pub get
+      - run: dart analyze .
