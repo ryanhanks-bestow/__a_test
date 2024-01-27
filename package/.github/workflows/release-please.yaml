@@ -1,0 +1,26 @@
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release-please
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.1.1
+      - uses: google-github-actions/release-please-action@v4
+        id: release
+        with:
+          token: $
+          release-type: dart
+      - name: Enable Pull Request Automerge
+        if: steps.release.outputs.prs_created && steps.release.outputs.pr != null
+        run: gh pr merge --merge --auto $
+        env:
+          GH_TOKEN: $
