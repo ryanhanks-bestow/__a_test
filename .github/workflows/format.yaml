@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: bestow-code-workflows/actions/format
+      - uses: bestow-code-actions/format
 #      - uses: actions/checkout@v4.1.1
 #      - uses: dart-lang/setup-dart@v1
 #      - run: dart pub get
