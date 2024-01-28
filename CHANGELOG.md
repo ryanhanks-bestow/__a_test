@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/ryanhanks-bestow/__a_test/compare/v1.3.0...v1.3.1) (2024-01-28)
+
+
+### Miscellaneous Chores
+
+* release 1.3.1 ([b3e35f7](https://github.com/ryanhanks-bestow/__a_test/commit/b3e35f7058d2834b73034f209967b33ab141b69d))
+
 ## [1.3.0](https://github.com/ryanhanks-bestow/__a_test/compare/v1.2.0...v1.3.0) (2024-01-28)
 
 
