@@ -7,8 +7,8 @@ jobs:
   format:
     runs-on: ubuntu-latest
     steps:
-      - run: echo noop
-      - uses: ./.github/actions/dart-format
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/format
 #      - uses: actions/checkout@v4.1.1
 #      - uses: dart-lang/setup-dart@v1
 #      - run: dart pub get
