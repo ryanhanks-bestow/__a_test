@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/ryanhanks-bestow/__a_test/compare/v1.4.0...v1.5.0) (2024-01-28)
+
+
+### Features
+
+* composite action ([#24](https://github.com/ryanhanks-bestow/__a_test/issues/24)) ([ab50f08](https://github.com/ryanhanks-bestow/__a_test/commit/ab50f08f31eb8cd1a45aba85329ab267e18e7fbf))
+
 ## [1.4.0](https://github.com/ryanhanks-bestow/__a_test/compare/v1.3.2...v1.4.0) (2024-01-28)
 
 
