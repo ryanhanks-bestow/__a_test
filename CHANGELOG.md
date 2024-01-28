@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/ryanhanks-bestow/__a_test/compare/v1.1.0...v1.1.1) (2024-01-28)
+
+
+### Bug Fixes
+
+* fix6 ([#10](https://github.com/ryanhanks-bestow/__a_test/issues/10)) ([2636e31](https://github.com/ryanhanks-bestow/__a_test/commit/2636e31d6f2142adc35b94bb3c838c99757a74a0))
+
 ## [1.1.0](https://github.com/ryanhanks-bestow/__a_test/compare/v1.0.0...v1.1.0) (2024-01-27)
 
 
