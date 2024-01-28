@@ -1,4 +1,4 @@
-name: 'dart-format'
+name: 'Dart Format'
 description: 'Validate dart format conformance'
 runs:
   using: 'composite'
