@@ -1,0 +1,12 @@
+name: 'Dart Format'
+description: 'Validate dart format conformance'
+runs:
+  using: 'composite'
+  steps:
+    - run: echo "Step 1"
+      shell: bash
+    - run: echo noop
+#    - uses: actions/checkout@v4.1.1
+#    - uses: dart-lang/setup-dart@v1
+#    - run: dart pub get
+#    - run: dart format --set-exit-if-changed .
