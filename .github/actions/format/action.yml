@@ -6,6 +6,7 @@ runs:
     - run: echo "Step 1"
       shell: bash
     - run: echo noop
+      shell: bash
 #    - uses: actions/checkout@v4.1.1
 #    - uses: dart-lang/setup-dart@v1
 #    - run: dart pub get
