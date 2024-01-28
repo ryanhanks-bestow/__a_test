@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/ryanhanks-bestow/__a_test/compare/v1.2.0...v1.3.0) (2024-01-28)
+
+
+### Features
+
+* $n ([#15](https://github.com/ryanhanks-bestow/__a_test/issues/15)) ([8a609f8](https://github.com/ryanhanks-bestow/__a_test/commit/8a609f8a7a291d0654c185aadf9ca0b898c81dba))
+
 ## [1.2.0](https://github.com/ryanhanks-bestow/__a_test/compare/v1.1.1...v1.2.0) (2024-01-28)
 
 
