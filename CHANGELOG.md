@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/ryanhanks-bestow/__a_test/compare/v1.5.0...v1.6.0) (2024-02-01)
+
+
+### Miscellaneous Chores
+
+* release 1.6.0 ([af1d1b9](https://github.com/ryanhanks-bestow/__a_test/commit/af1d1b982be3ebd89ce61364b4098b2d04fe312b))
+
 ## [1.5.0](https://github.com/ryanhanks-bestow/__a_test/compare/v1.4.0...v1.5.0) (2024-01-28)
 
 
